@@ -416,6 +416,4 @@
             '</div>';
         return $(list_item_tpl);
     }
-})();return $(list_item_tpl);
-    }
 })();
